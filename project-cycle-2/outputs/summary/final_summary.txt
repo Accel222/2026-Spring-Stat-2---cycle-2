@@ -1,0 +1,10 @@
+=== Final Inference Summary ===
+1. CurrentAlcoholUse (Benchmark p0 = 0.35):
+   - Sample Proportion: 0.4517
+   - 95% CI: (0.4431, 0.4604)
+   - Result: Reject Null Hypothesis (p < 0.05).
+
+2. BMIPCT (Benchmark mu0 = 65.0):
+   - Sample Mean: 64.8207
+   - 95% CI: (64.3487, 65.2926)
+   - Result: Fail to Reject Null Hypothesis (p = 0.4816).
